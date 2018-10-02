@@ -2,7 +2,7 @@
  /*in-office version*/ version 15
 
 
-clear
+clear//i'm testing a change on github here!
 
 /*brianPC*/ cd "\Users\redline\Documents\SharePoint\T\Data\Person Level\_Raw Data\Baseline-SNI\BL-SNI (v5+)\Version 6.0 (July 2018)"
 //import raw, formattted csv file for all who took Baseline CURRENT VERSION
